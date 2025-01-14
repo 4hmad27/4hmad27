@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4hmad27
 - 👀 I’m interested in sleep
 - 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me :0857-5221-4806
 - ⚡ Fun fact: i am muslim
-- i'm from indonesian
+- 🌏 i'm from indonesian
