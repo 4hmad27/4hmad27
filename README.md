@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @4hmad27
-- 👀 I’m interested in sleep
-- 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me :0857-5221-4806
-- ⚡ Fun fact: i am muslim
-- 🌏 i'm from indonesian
+- > ### **Hello**
+- my name Ahmad Afan Shobari
+- from indonesia java center
+- my Hobby swimming and proggramming
+- i'm muslim
+- _normal_
